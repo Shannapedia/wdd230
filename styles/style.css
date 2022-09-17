@@ -4,6 +4,7 @@ body {
 	align-items: center;
 	justify-content: center;
     background-color: #FFFCF9;
+    font-family: 'Oswald', sans-serif;
 }
 header {
     display: flex;
@@ -17,10 +18,12 @@ img {
     border-radius: 20px;
 }
 h1 {
+    font-family: 'Cinzel', serif;
     padding: 0px 40px;
     color: #FFFCF9;
 }
 h2 {
+    color: #474973;
 	margin-bottom: .5rem;
 }
 main {
@@ -34,9 +37,10 @@ p {
 	padding: 5px;
 	font-size: smaller;
     margin: 0px;
+    color: #FFFCF9;
 }
 footer {
 	background-color: #C4B7CB;
     border-radius: 10px;
-    padding: 10px 200px;
+    padding: 10px 370px;
 }
